@@ -67,8 +67,6 @@ const chanSokkong = {
 
 ---
 
----
-
 ## 🌱 Learning Roadmap
 
 ```mermaid
