@@ -67,25 +67,21 @@ const chanSokkong = {
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kong44&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kong44&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kong44&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=kong44&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kong44&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 🐍 Contribution Animation
+## 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/snake.svg" alt="Snake animation" />
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kong44/kong44/output/snake-dark.svg" />
+</p>
 
 ---
 
