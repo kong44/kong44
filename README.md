@@ -116,8 +116,6 @@ mindmap
 
 <div align="center">
 
-### ✨ “Building software that solves real business problems.”
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:8B5CF6&height=120&section=footer" />
 
 </div>
